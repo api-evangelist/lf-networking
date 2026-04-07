@@ -23,10 +23,10 @@ apis:
       Programmatic access to LF Networking project resources, APIs, and open networking infrastructure tools.
     humanURL: https://lfnetworking.org/projects/
     tags:
-  - Networking
-  - Open Source
-  - Telecom
-  - Linux Foundation
+      - Networking
+      - Open Source
+      - Telecom
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://lfnetworking.org/projects/
