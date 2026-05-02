@@ -13,7 +13,7 @@ LF Networking is an umbrella organization under the Linux Foundation that provid
 
 ## Timestamps
 - **Created:** 2026-03-16
-- **Modified:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -31,6 +31,7 @@ Programmatic access to LF Networking project resources, APIs, and open networkin
 ## Common Properties
 - [Documentation](https://lfnetworking.org/projects/)
 - [GitHub Repository](https://github.com/lf-networking)
+- [Projects](https://lfnetworking.org/projects/)
 
 ## Maintainers
 **FN:** Kin Lane

@@ -12,7 +12,7 @@ tags:
   - Open Source
   - Telecom
 created: '2026-03-16'
-modified: '2026-03-16'
+modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lf-networking/refs/heads/main/apis.yml
 specificationVersion: '0.19'
@@ -39,6 +39,10 @@ common:
     name: LF Networking GitHub
     description: Source code and repositories for LF Networking.
     url: https://github.com/lf-networking
+  - type: Projects
+    name: LF Networking Projects
+    description: Portfolio of open networking projects including 5G Super Blueprints, Anuket, Cloud Native Telecom Initiative (CNTI), Duranta, Essedum, FD.io, L3AF, Nephio, ONAP, OpenDaylight, Paraglider, and O-RAN-SC.
+    url: https://lfnetworking.org/projects/
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
