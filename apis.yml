@@ -31,6 +31,8 @@ apis:
       - type: Documentation
         url: https://lfnetworking.org/projects/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lf-networking
   - type: Documentation
     name: LF Networking Documentation
     description: Official documentation for LF Networking.
