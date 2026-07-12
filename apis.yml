@@ -31,6 +31,8 @@ apis:
       - type: Documentation
         url: https://lfnetworking.org/projects/
 common:
+  - type: DomainSecurity
+    url: security/lf-networking-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lf-networking
   - type: Documentation
@@ -45,6 +47,8 @@ common:
     name: LF Networking Projects
     description: Portfolio of open networking projects including 5G Super Blueprints, Anuket, Cloud Native Telecom Initiative (CNTI), Duranta, Essedum, FD.io, L3AF, Nephio, ONAP, OpenDaylight, Paraglider, and O-RAN-SC.
     url: https://lfnetworking.org/projects/
+  - url: https://lfnetworking.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
