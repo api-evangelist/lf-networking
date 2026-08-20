@@ -21,6 +21,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lf-network
 tags:
   - Linux Foundation
   - Networking
+  - Open-Source
+  - Telecom
+tags_raw:
+  - Linux Foundation
+  - Networking
   - Open Source
   - Telecom
 created: '2026-03-16'
@@ -35,6 +40,11 @@ apis:
       Programmatic access to LF Networking project resources, APIs, and open networking infrastructure tools.
     humanURL: https://lfnetworking.org/projects/
     tags:
+      - Linux Foundation
+      - Networking
+      - Open-Source
+      - Telecom
+    tags_raw:
       - Linux Foundation
       - Networking
       - Open Source
