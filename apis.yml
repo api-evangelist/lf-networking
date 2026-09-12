@@ -64,6 +64,8 @@ apis:
       - type: Documentation
         url: https://lfnetworking.org/projects/
 common:
+  - type: Website
+    url: https://www.lfnetworking.org/
   - type: DomainSecurity
     url: security/lf-networking-domain-security.yml
   - type: LinkedIn
